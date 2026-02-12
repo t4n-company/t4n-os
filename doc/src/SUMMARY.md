@@ -1,4 +1,4 @@
 # Summary
 
-- [English](en/)
-- [Bahasa Indonesia](id/)
+- [English](en/SUMMARY.md)
+- [Bahasa Indonesia](id/SUMMARY.md)
